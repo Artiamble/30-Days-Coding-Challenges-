@@ -11,6 +11,13 @@ Task 03. String Reverse without using inbuilt function
 14th September 2023
 Task 04. String Palindrome without using inbuilt function
 
+15th September 2023
+Task 04. Print Second Largest Element from unsorted array
+
+
+
+
+
 
 
 
